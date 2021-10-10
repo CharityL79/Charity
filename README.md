@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @agccr
+- 👀 I’m interested in learning data analytics
+- 🌱 I’m currently learning RStudio
+- 💞️ I’m looking for any help anyone is willing to give a beginner
+- 📫 How to reach me:dm me here
+-  I'm taking the opportunity to learn certain code to change careers. I'm in a program to help with that but any help I can get, I'm willing to take.
